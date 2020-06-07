@@ -4,9 +4,13 @@ import path from 'path';
 const connection = knex({
   client: 'sqlite3',
   connection: {
-    filename: path.resolve(__dirname, 'database.sqlite'),
+    filename: path.resolve(__dirname, 'database.sqlite')
   },
-  useNullAsDefault: true,
-});
+  pool: {
+    afterCreate: (conn: any, cb: any) =>
+      conn.run('PRAGMA foreign_keys = ON', cb)
+  },
+  useNullAsDefault: true
+})
 
-export default connection;
+export default connection
