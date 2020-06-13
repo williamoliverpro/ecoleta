@@ -1,13 +1,13 @@
 
 <h1 align="center">
 <br>
-  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
+  <img src="YOUR_LOGO_URL" alt="Logo do Ecoleta" width="120">
 <br>
 <br>
-YOUR_PROJECT_NAME
+Ecoleta
 </h1>
 
-<p align="center">A little description about your project</p>
+<p align="center">Projeto desenvolvido durante a Next Level Week Booster</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
