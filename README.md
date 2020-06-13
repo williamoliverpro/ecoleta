@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <br>
-  <img src="web/src/assets/logo.svg" alt="Logo do Ecoleta" width="120">
+  <img src="mobile/src/assets/logo@2x.png" alt="Logo do Ecoleta" width="120">
 <br>
 <br>
 Ecoleta
