@@ -33,8 +33,8 @@ This app features all the latest tools and practices in mobile development!
 
 ## Getting started
 
-Clone this repo using git clone
-Move yourself to the appropriate directory: cd nlw-booster
+Clone this repo using git clone<br/>
+Move yourself to the appropriate directory: cd nlw-booster<br/>
 Run npm to install dependencies
 
 
