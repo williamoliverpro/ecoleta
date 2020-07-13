@@ -7,7 +7,7 @@
 Ecoleta
 </h1>
 
-<p align="center">Project developed during the Next Level Week Booster, with the purpose of helping in the collection of recyclables</p>
+<p align="center">Project developed during the Next Level Week (Booster), with the purpose of helping in the collection of recyclables</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
