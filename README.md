@@ -20,9 +20,9 @@ Ecoleta
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="web" title="#NextLevelWeek" src="github/web.svg" width="400px">
+  <img alt="homeweb" title="homeweb" src="github/web.png" width="400px">
 
-  <img alt="registration-completedweb" title="#NextLevelWeek" src="github/registration-completed.svg" width="400px">
+  <img alt="registration-completedweb" title="#registration-completedweb" src="github/registration-completed.svg" width="400px">
 </p>
   
 ### Mobile
